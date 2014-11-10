@@ -1,0 +1,9 @@
+Total Trials = 10000
+Best Fit Max = 27
+Best Fit Sorted = 28
+First Fit Max = 26
+First Fit Sorted = 25
+Worst Fit Max = 2
+Worst Fit Sorted = 10
+Complete Packing = 18
+Heuristic Succeeded = 35
